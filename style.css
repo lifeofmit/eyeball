@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: radial-gradient(#f2761e,#ef4921);
+    background: radial-gradient(#a76bf1,#6226b4);
 }
 
 .box{
@@ -37,6 +37,6 @@ body{
     height: 45px;
     border-radius: 50%;
     background: #000;
-    border: 10px solid #2196f3;
+    border: 10px solid #a76bf1;
     box-sizing: border-box;
 }
